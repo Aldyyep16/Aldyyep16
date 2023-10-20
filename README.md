@@ -1,12 +1,12 @@
 <h1 align="center">Muhammad Andhika Awaldy</h1>
 <h3 align="center">Junior Web Developer</h3>
-<img align="right" alt="Noriaki Kakyoin" width="400" src="https://i.pinimg.com/originals/9b/56/5a/9b565a4132628c51b7112067160e45c7.gif"
+<img align="right" alt="Noriaki Kakyoin" width="400" src="[https://i.pinimg.com/originals/9b/56/5a/9b565a4132628c51b7112067160e45c7.gif](https://media.giphy.com/media/3orifdO6eKr9YBdOBq/giphy.gif)"
 
 Apprenticeship at [PT Usaha Jayamas Bhakti](https://lookmedia.co.id/)
 
 <h3 align="left">Socials media:</h3>
 <p align="left">
-<a href="https://www.instagram.com/wildanziddan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xanaqwerty" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maawaldy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xanaqwerty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies:</h3>
@@ -17,9 +17,3 @@ Apprenticeship at [PT Usaha Jayamas Bhakti](https://lookmedia.co.id/)
 <p align="left">   </p>
 <br/>
 
-# Stats:
-![](https://github-readme-stats.vercel.app/api?username=WildanZiddan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WildanZiddan&theme=dark&hide_border=true)<br/>
-
-
-[![](https://visitcount.itsvg.in/api?id=WildanZiddan&icon=0&color=0)](https://visitcount.itsvg.in)
