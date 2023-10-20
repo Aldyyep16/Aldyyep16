@@ -1,8 +1,8 @@
-<h1 align="center">Wildan Yazid Ziddan</h1>
+<h1 align="center">Muhammad Andhika Awaldy</h1>
 <h3 align="center">Junior Web Developer</h3>
 <img align="right" alt="Noriaki Kakyoin" width="400" src="https://i.pinimg.com/originals/9b/56/5a/9b565a4132628c51b7112067160e45c7.gif"
 
-Apprenticeship at [PT LookMedia](https://lookmedia.co.id/)
+Apprenticeship at [PT Usaha Jayamas Bhakti](https://lookmedia.co.id/)
 
 <h3 align="left">Socials media:</h3>
 <p align="left">
