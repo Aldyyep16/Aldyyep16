@@ -1,6 +1,6 @@
 <h1 align="center">M.Andhika Awaldy</h1>
 <h3 align="center">Junior Web Developer</h3>
-<img align="right" alt="mortal-kombat-kombat-kast" width="400" src="https://tenor.com/view/mortal-kombat-kombat-kast-2023-johnny-johnny-cage-gif-10393619527163142648"
+<img align="right" alt="mortal-kombat-kombat-kast" width="400" src="https://tenor.com/view/mortal-kombat-kombat-kast-2023-johnny-johnny-cage-gif-10393619527163142648">
 
 
 
