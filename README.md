@@ -1,6 +1,6 @@
 <h1 align="center">Muhammad Andhika Awaldy</h1>
 <h3 align="center">Web Developer</h3>
-<img align="right" alt="Musashi Miyamoto" width="400" src="https://media.tenor.com/vapdwHzWOkIAAAAd/musashi-musashi-miyamoto.gif"
+<img align="right" alt="Musashi Miyamoto" width="400" src="https://media.tenor.com/n9Au4fd_4lwAAAAd/thorfinn-vinland-saga.gif"
 
 Apprenticeship at [PT Usaha Jayamas Bhakti](https://usahajb.id/)
 
