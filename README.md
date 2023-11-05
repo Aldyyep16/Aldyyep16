@@ -6,7 +6,7 @@ Apprenticeship at [PT Usaha Jayamas Bhakti](https://usahajb.id/)
 
 <h3 align="left">Socials media:</h3>
 <p align="left">
-<a href="https://www.instagram.com/di.khaeee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikhaeee" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maawaldy_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maawaldy_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies:</h3>
