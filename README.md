@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Andhika Awaldy</h1>
+<h1 align="center">:shipit:Hi There I'm Dhika:shipit:</h1>
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Musashi Miyamoto" width="400" src="https://media.tenor.com/n9Au4fd_4lwAAAAd/thorfinn-vinland-saga.gif"
 
