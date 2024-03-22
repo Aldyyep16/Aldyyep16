@@ -1,6 +1,6 @@
 <h1 align="center">Hi There I'm Dhika💫</h1>
 <h3 align="center">FrontEnd Dev.</h3>
-<img align="right" alt="Musashi Miyamoto" width="500" src="https://media1.tenor.com/m/VNv2gnqXFrMAAAAd/kokou-no-hito.gif"
+<img align="right" alt="Musashi Miyamoto" width="500" src="https://media1.tenor.com/m/1WuQUWsH2OoAAAAC/crush-hoping.gif"
 
 Apprenticeship at [PT Usaha Jayamas Bhakti](https://usahajb.id/)
 
